@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 format: jb-book
 root: intro
-sections:
+chapters:
 - file: harjoitukset/otsikko
   sections:
   - file: harjoitukset/Vuosirenkaat
